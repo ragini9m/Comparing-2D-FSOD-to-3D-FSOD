@@ -11,6 +11,11 @@ tar xf VOCtrainval_06-Nov-2007.tar
 tar xf VOCtest_06-Nov-2007.tar
 ```
 
+|Dataset||
+| --- |--- |
+|cocosplit|[download_link](https://drive.google.com/file/d/1T_cYLxNqYlbnFNJt8IVvT7ZkWb5c0esj/view?usp=sharing)|
+|vocsplit|[download_link](https://drive.google.com/file/d/1BpDDqJ0p-fQAFN_pthn2gqiK5nWGJ-1a/view?usp=sharing)|
+
 |Papers| | |
 | --- | --- | --- | 
 | Few-Shot Object Detection via Variational Feature Aggregation (VFA) | [PAPER](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) | 
