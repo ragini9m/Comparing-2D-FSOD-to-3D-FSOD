@@ -40,7 +40,7 @@ tar xf VOCtest_06-Nov-2007.tar
 | --- | --- | --- | 
 |Few-Shot Viewpoint Estimation|[PAPER]()|[CODE](https://github.com/YoungXIAO13/FewShotViewpoint)|
 |SST|[PAPER]()|[SST](https://github.com/tusen-ai/SST)|
-|FS3D|[PAPER]()|[FS3D]()|
+|FS3D|[PAPER]()|[FS3D](https://github.com/CVMI-Lab/FS3D)|
 ||[PAPER]()|[CODE](https://github.com/CVMI-Lab/FS3D)|
 |SFA3D|[PAPER]()|[SFA3D](https://github.com/maudzung/SFA3D)|
 |XrayDet|[PAPER]()|[CODE](https://github.com/DIG-Beihang/XrayDetection)|
