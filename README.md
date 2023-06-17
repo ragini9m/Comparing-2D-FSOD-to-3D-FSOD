@@ -55,8 +55,3 @@ tar xf VOCtest_06-Nov-2007.tar
 ||[PAPER]()|[CODE]()|
 
 
-conda env 
-install detectron in conda env
-```
-python3 -m pip install detectron2==0.3 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.6/index.html
-```
