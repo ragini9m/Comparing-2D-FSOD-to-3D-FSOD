@@ -19,13 +19,13 @@ tar xf VOCtest_06-Nov-2007.tar
 
 
 2D-FSOD
-|Papers| | |
+|repo-name| | |
 | --- | --- | --- | 
-| Few-Shot Object Detection via Variational Feature Aggregation (VFA) | [PAPER](https://arxiv.org/pdf/2301.13411.pdf) | [VFA](https://github.com/csuhan/VFA) | 
-| DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection (DeFRCN)| [PAPER](https://arxiv.org/pdf/2108.09017.pdf)| [defrcn](https://github.com/er-muyue/DeFRCN)|
+| VFA | [PAPER](https://arxiv.org/pdf/2301.13411.pdf) | [VFA](https://github.com/csuhan/VFA) | 
+| DeFRCN)| [PAPER](https://arxiv.org/pdf/2108.09017.pdf)| [defrcn](https://github.com/er-muyue/DeFRCN)|
 |Dual-awareness Attention for Few-shot Object Detection|[PAPER]()|[CODE](https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection)|
-|OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features|[PAPER]()|[os2d](https://github.com/aosokin/os2d/tree/master)|
-|Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection|[PAPER]()|[ICPE](https://github.com/facebookresearch/sylph-few-shot-detection)|
+|OS2D|[PAPER]()|[os2d](https://github.com/aosokin/os2d/tree/master)|
+|Sylph|[PAPER]()|[ICPE](https://github.com/facebookresearch/sylph-few-shot-detection)|
 |ICPE|[PAPER]()|[CODE](https://github.com/lxn96/ICPE/tree/main)|
 |Dynamic Relevance Learning for Few-Shot Object Detection|[PAPER]()|[CODE](https://github.com/liuweijie19980216/DRL-for-FSOD)|
 |VizWiz-FewShot|[PAPER]()|[vizwiz](https://github.com/alec-bell/vizwiz-fewshot/tree/master)|
@@ -36,7 +36,7 @@ tar xf VOCtest_06-Nov-2007.tar
 
 3D-FSOD
 
-|Papers| | |
+|repo-name| | |
 | --- | --- | --- | 
 |Few-Shot Viewpoint Estimation|[PAPER]()|[CODE](https://github.com/YoungXIAO13/FewShotViewpoint)|
 |SST|[PAPER]()|[SST](https://github.com/tusen-ai/SST)|
