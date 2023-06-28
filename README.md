@@ -49,8 +49,25 @@ tar xf VOCtest_06-Nov-2007.tar
 |FewShot_GAN-Unet3D|[PAPER]()|[CODE](https://github.com/arnab39/FewShot_GAN-Unet3D)|
 |GeoFormer|[PAPER]()|[GeoFormer](https://github.com/VinAIResearch/GeoFormer)|
 |few_shot_3dr|[PAPER]()|[few_shot_3dr](https://github.com/JeremyFisher/few_shot_3dr)|
-||[PAPER]()|[CODE]()|
-||[PAPER]()|[CODE]()|
+|iccv_2019_few_shot_3d_wallace|[PAPER]()|[CODE](https://github.com/BramSW/iccv_2019_few_shot_3d_wallace)|
+|PAP-FZS3D|[PAPER]()|[CODE](https://github.com/heshuting555/PAP-FZS3D)|
+|UVStyle-Net|[PAPER]()|[CODE](https://github.com/AutodeskAILab/UVStyle-Net)|
+|Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation|[PAPER]()|[CODE](https://github.com/Lingjing324/Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation)|
+|Few-Shot-3D-Point-Cloud-Classification|[PAPER]()|[CODE](https://github.com/PeiZhou26/Few-Shot-3D-Point-Cloud-Classification)|
+|NeuralVS|[PAPER]()|[CODE](https://github.com/Angtian/NeuralVS)|
+|Few-shot_3D_Geometric_DeepLearning|[PAPER]()|[CODE](https://github.com/Mzunoven/Few-shot_3D_Geometric_DeepLearning)|
+|H3D-Net-new|[PAPER]()|[CODE]()|
+|H3D-Net-new|[PAPER]()|[CODE](https://github.com/MaxPolak97/H3D-Net-new)|
+|PADMix|[PAPER]()|[CODE](https://github.com/ttchengab/PADMix)|
+|BFG_FewShot3D|[PAPER]()|[CODE](https://github.com/Mostapha0A/BFG_FewShot3D)|
+|FewShot_3D|[PAPER]()|[CODE](https://github.com/rishabhdotgupta/FewShot_3D)|
+|3D_Medical_FewShot|[PAPER]()|[CODE](https://github.com/Rituraj-commits/3D_Medical_FewShot)|
+|3D-Few-Shot|[PAPER]()|[CODE](https://github.com/yuchenlichuck/3D-Few-Shot)|
+||[PAPER]()|[CODE](https://github.com/frh02/3D-Few-Shot)|
+|Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving|[PAPER]()|[CODE](https://github.com/Garvey98/Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving)|
+|SCAT|[PAPER]()|[CODE](https://github.com/czzhang179/SCAT)|
+|JRSS|[PAPER]()|[CODE](https://github.com/AIforMS/JRSS)|
+|analogicalnets|[PAPER]()|[CODE](https://github.com/nickgkan/analogicalnets)|
 ||[PAPER]()|[CODE]()|
 ||[PAPER]()|[CODE]()|
 
