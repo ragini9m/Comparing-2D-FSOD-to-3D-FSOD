@@ -62,15 +62,15 @@ tar xf VOCtest_06-Nov-2007.tar
 |repo-name| | |
 | --- | --- | --- | 
 |Few-Shot Viewpoint Estimation|[PAPER]()|[CODE](https://github.com/YoungXIAO13/FewShotViewpoint)|
-|SST|[PAPER]()|[SST](https://github.com/tusen-ai/SST)|
-|FS3D|[PAPER]()|[FS3D](https://github.com/CVMI-Lab/FS3D)|
-|SFA3D|[PAPER]()|[SFA3D](https://github.com/maudzung/SFA3D)|
+|SST|[PAPER]()|[CODE](https://github.com/tusen-ai/SST)|
+|FS3D|[PAPER]()|[CODE](https://github.com/CVMI-Lab/FS3D)|
+|SFA3D|[PAPER]()|[CODE](https://github.com/maudzung/SFA3D)|
 |XrayDet|[PAPER]()|[CODE](https://github.com/DIG-Beihang/XrayDetection)|
-|attMPTI|[PAPER]()|[attMPTI](https://github.com/Na-Z/attMPTI)|
-|FSCIL-3D|[PAPER]()|[FSCIL-3D](https://github.com/townim-faisal/FSCIL-3D)|
+|attMPTI|[PAPER]()|[CODE](https://github.com/Na-Z/attMPTI)|
+|FSCIL-3D|[PAPER]()|[CODE-3D](https://github.com/townim-faisal/FSCIL-3D)|
 |FewShot_GAN-Unet3D|[PAPER]()|[CODE](https://github.com/arnab39/FewShot_GAN-Unet3D)|
-|GeoFormer|[PAPER]()|[GeoFormer](https://github.com/VinAIResearch/GeoFormer)|
-|few_shot_3dr|[PAPER]()|[few_shot_3dr](https://github.com/JeremyFisher/few_shot_3dr)|
+|GeoFormer|[PAPER]()|[CODE](https://github.com/VinAIResearch/GeoFormer)|
+|few_shot_3dr|[PAPER]()|[CODE](https://github.com/JeremyFisher/few_shot_3dr)|
 |iccv_2019_few_shot_3d_wallace|[PAPER]()|[CODE](https://github.com/BramSW/iccv_2019_few_shot_3d_wallace)|
 |PAP-FZS3D|[PAPER]()|[CODE](https://github.com/heshuting555/PAP-FZS3D)|
 |UVStyle-Net|[PAPER]()|[CODE](https://github.com/AutodeskAILab/UVStyle-Net)|
