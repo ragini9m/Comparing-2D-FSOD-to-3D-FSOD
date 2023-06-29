@@ -21,15 +21,37 @@ tar xf VOCtest_06-Nov-2007.tar
 2D-FSOD
 |repo-name| | |
 | --- | --- | --- | 
-| VFA | [PAPER](https://arxiv.org/pdf/2301.13411.pdf) | [VFA](https://github.com/csuhan/VFA) | 
-| DeFRCN)| [PAPER](https://arxiv.org/pdf/2108.09017.pdf)| [defrcn](https://github.com/er-muyue/DeFRCN)|
+| VFA | [PAPER](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) | 
+| DeFRCN| [PAPER](https://arxiv.org/pdf/2108.09017.pdf)| [CODE](https://github.com/er-muyue/DeFRCN)|
 |Dual-awareness Attention for Few-shot Object Detection|[PAPER]()|[CODE](https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection)|
-|OS2D|[PAPER]()|[os2d](https://github.com/aosokin/os2d/tree/master)|
-|Sylph|[PAPER]()|[ICPE](https://github.com/facebookresearch/sylph-few-shot-detection)|
+|OS2D|[PAPER]()|[CODE](https://github.com/aosokin/os2d/tree/master)|
+|Sylph|[PAPER]()|[CODE](https://github.com/facebookresearch/sylph-few-shot-detection)|
 |ICPE|[PAPER]()|[CODE](https://github.com/lxn96/ICPE/tree/main)|
 |Dynamic Relevance Learning for Few-Shot Object Detection|[PAPER]()|[CODE](https://github.com/liuweijie19980216/DRL-for-FSOD)|
-|VizWiz-FewShot|[PAPER]()|[vizwiz](https://github.com/alec-bell/vizwiz-fewshot/tree/master)|
-|DandR|[PAPER]()|[DandR](https://github.com/ZYN-1101/DandR/tree/main)|
+|VizWiz-FewShot|[PAPER]()|[CODE](https://github.com/alec-bell/vizwiz-fewshot/tree/master)|
+|DandR|[PAPER]()|[CODE](https://github.com/ZYN-1101/DandR/tree/main)|
+|AirDet|[PAPER]()|[CODE](https://github.com/Jaraxxus-Me/AirDet)|
+|MFDC|[PAPER]()|[CODE](https://github.com/WuShuang1998/MFDC)|
+|FewX|[PAPER]()|[CODE](https://github.com/fanq15/FewX)|
+|Counting-DETR|[PAPER]()|[CODE](https://github.com/VinAIResearch/Counting-DETR)|
+|MRSN|[PAPER]()|[CODE](https://github.com/MMatx/MRSN)|
+|AcroFOD|[PAPER]()|[CODE](https://github.com/Hlings/AcroFOD)|
+|KFSOD|[PAPER]()|[CODE](https://github.com/ZS123-lang/KFSOD)|
+|lvc|[PAPER]()|[CODE](https://github.com/prannaykaul/lvc)|
+|Meta-Faster-R-CNN|[PAPER]()|[CODE](https://github.com/GuangxingHan/Meta-Faster-R-CNN)|
+|HallucFsDet(no code)|[PAPER]()|[CODE]()|
+|QA-FewDet|[PAPER]()|[CODE](https://github.com/GuangxingHan/QA-FewDet)|
+|UP-FSOD|[PAPER]()|[CODE](https://github.com/AmingWu/UP-FSOD)|
+|Meta-DETR|[PAPER]()|[CODE](https://github.com/ZhangGongjie/Meta-DETR)|
+|SVD-Dictionary-Enhancement(no code)|[PAPER]()|[CODE](https://github.com/AmingWu/SVD-Dictionary-Enhancement)|
+|FADI|[PAPER]()|[CODE](https://github.com/yhcao6/FADI)|
+|AIT|[PAPER]()|[CODE](https://github.com/CAIVIAC/AIT)|
+|DCNet|[PAPER]()|[CODE](https://github.com/hzhupku/DCNet)|
+|GFSD|[PAPER]()|[CODE](https://github.com/Megvii-BaseDetection/GFSD)|
+|CME|[PAPER]()|[CODE](https://github.com/Bohao-Lee/CME)|
+|UniT|[PAPER]()|[CODE](https://github.com/ubc-vision/UniT)|
+|FAPIS|[PAPER]()|[CODE](https://github.com/ducminhkhoi/FAPIS)|
+|FSCE|[PAPER]()|[CODE](https://github.com/megvii-research/FSCE)|
 ||[PAPER]()|[CODE]()|
 
 
