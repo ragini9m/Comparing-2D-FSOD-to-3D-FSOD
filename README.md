@@ -21,6 +21,7 @@ tar xf VOCtest_06-Nov-2007.tar
 2D-FSOD
 |repo-name| | |
 | --- | --- | --- | 
+|TFA (FSDet)|[PAPER]()|[CODE](https://github.com/ucbdrive/few-shot-object-detection)|
 | VFA | [PAPER](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) | 
 | DeFRCN| [PAPER](https://arxiv.org/pdf/2108.09017.pdf)| [CODE](https://github.com/er-muyue/DeFRCN)|
 |Dual-awareness Attention for Few-shot Object Detection|[PAPER]()|[CODE](https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection)|
@@ -52,7 +53,7 @@ tar xf VOCtest_06-Nov-2007.tar
 |UniT|[PAPER]()|[CODE](https://github.com/ubc-vision/UniT)|
 |FAPIS|[PAPER]()|[CODE](https://github.com/ducminhkhoi/FAPIS)|
 |FSCE|[PAPER]()|[CODE](https://github.com/megvii-research/FSCE)|
-||[PAPER]()|[CODE]()|
+
 
 
 
