@@ -65,7 +65,7 @@ tar xf VOCtest_06-Nov-2007.tar
 |SST|[PAPER]()|[CODE](https://github.com/tusen-ai/SST)|
 |FS3D|[PAPER]()|[CODE](https://github.com/CVMI-Lab/FS3D)|
 |SFA3D|[PAPER]()|[CODE](https://github.com/maudzung/SFA3D)|
-|XrayDet|[PAPER]()|[CODE](https://github.com/DIG-Beihang/XrayDetection)|
+|XrayDet|[PAPER]()|[CODE]([https://github.com/DIG-Beihang/XrayDetection](https://github.com/DIG-Beihang/XrayDetection))|
 |attMPTI|[PAPER]()|[CODE](https://github.com/Na-Z/attMPTI)|
 |FSCIL-3D|[PAPER]()|[CODE-3D](https://github.com/townim-faisal/FSCIL-3D)|
 |FewShot_GAN-Unet3D|[PAPER]()|[CODE](https://github.com/arnab39/FewShot_GAN-Unet3D)|
