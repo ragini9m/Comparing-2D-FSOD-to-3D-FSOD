@@ -64,7 +64,6 @@ tar xf VOCtest_06-Nov-2007.tar
 |Few-Shot Viewpoint Estimation|[PAPER]()|[CODE](https://github.com/YoungXIAO13/FewShotViewpoint)|
 |SST|[PAPER]()|[SST](https://github.com/tusen-ai/SST)|
 |FS3D|[PAPER]()|[FS3D](https://github.com/CVMI-Lab/FS3D)|
-||[PAPER]()|[CODE](https://github.com/CVMI-Lab/FS3D)|
 |SFA3D|[PAPER]()|[SFA3D](https://github.com/maudzung/SFA3D)|
 |XrayDet|[PAPER]()|[CODE](https://github.com/DIG-Beihang/XrayDetection)|
 |attMPTI|[PAPER]()|[attMPTI](https://github.com/Na-Z/attMPTI)|
@@ -86,7 +85,6 @@ tar xf VOCtest_06-Nov-2007.tar
 |FewShot_3D|[PAPER]()|[CODE](https://github.com/rishabhdotgupta/FewShot_3D)|
 |3D_Medical_FewShot|[PAPER]()|[CODE](https://github.com/Rituraj-commits/3D_Medical_FewShot)|
 |3D-Few-Shot|[PAPER]()|[CODE](https://github.com/yuchenlichuck/3D-Few-Shot)|
-||[PAPER]()|[CODE](https://github.com/frh02/3D-Few-Shot)|
 |Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving|[PAPER]()|[CODE](https://github.com/Garvey98/Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving)|
 |SCAT|[PAPER]()|[CODE](https://github.com/czzhang179/SCAT)|
 |JRSS|[PAPER]()|[CODE](https://github.com/AIforMS/JRSS)|
