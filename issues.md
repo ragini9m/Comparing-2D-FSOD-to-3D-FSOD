@@ -43,8 +43,9 @@
   
 ### 3D MOdels Errors
 - SFA3D (dataset location)
-- FewShotViewpoint
-- Xray Detction (not giving datatset)
+- FewShotViewpoint (pymesh error)
+- FS3D (pip error in all install)
+- Xray Detection (not giving dataset)
 - Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving (perfect paper NO CODE)
 
   
