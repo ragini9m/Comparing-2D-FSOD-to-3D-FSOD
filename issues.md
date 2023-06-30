@@ -1,21 +1,18 @@
 ### 2D Model Errors
 - VFA (2023)
-  - running forever
-  - base training done
-  - traing gpus? single multi?
+  - DONE!!!!!
   
 - DeFRCN (2021)
-  - train file runs forever
+  - Training on coco
+  - looking for trainval?
 
 - MFDC (2022)
-  - ResNet error
-  - Warnings
-  - terminal crashes after running
+  - detectron old version error (decapretated....) 
+  - built on defrcn...
 
 - AirDet (2022)
-  - (made changes in .sh file here)
-  - detectron 2 errors
-  - searching for some files that are not there
+  - cuda 8 needed
+  - cuda 9.2, 10.2, 11.7 - no
 
 ### 2D MOdels (Trial)
 - ICPE (2023)
@@ -42,22 +39,23 @@
 
   
 ### 3D MOdels Errors
-- SFA3D (dataset location)
+- SFA3D (TO DO: dataset location change after training)
+  - Almost Done! 
 - FewShotViewpoint (pymesh error)
 - FS3D (pip error in all install)
 - Xray Detection (not giving dataset)
-- Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving (perfect paper NO CODE)
 
   
 ### 3D MOdels (TRIAL)
 - FS3D (pc)
 - FSCIL-3D (pc)
-- XrayDet
+- XrayDet (OD)
 - BFG_FewShot3D (SS)
 - NeuralVS (learning)
-- - analogicalnets (Parsing) (?)
+- analogicalnets (Parsing) (?)
   
 ### 3D Models (OUTED)
+- Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving (perfect paper NO CODE)
 - attMPTI (S)
 - FewShot_GAN-Unet3D (S)
 - GeoFormer (S)
