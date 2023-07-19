@@ -16,6 +16,7 @@ tar xf VOCtest_06-Nov-2007.tar
 | --- |--- |
 |cocosplit|[download_link](https://drive.google.com/file/d/1T_cYLxNqYlbnFNJt8IVvT7ZkWb5c0esj/view?usp=sharing)|
 |vocsplit|[download_link](https://drive.google.com/file/d/1BpDDqJ0p-fQAFN_pthn2gqiK5nWGJ-1a/view?usp=sharing)|
+|kitti|[download_link](https://www.cvlibs.net/datasets/kitti/eval_object.php)|
 
 
 2D-FSOD
@@ -67,7 +68,7 @@ tar xf VOCtest_06-Nov-2007.tar
 |3D-Few-Shot|[PAPER]()|[CODE](https://github.com/yuchenlichuck/3D-Few-Shot)|
 |Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving|[PAPER]()|[CODE](https://github.com/Garvey98/Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving)|
 |UVStyle-Net|[PAPER]()|[CODE](https://github.com/AutodeskAILab/UVStyle-Net)|
-|FSCIL-3D (Learning)|[PAPER]()|[CODE-3D](https://github.com/townim-faisal/FSCIL-3D)|
+|FSCIL-3D (Learning)|[PAPER]()|[CODE](https://github.com/townim-faisal/FSCIL-3D)|
 |NeuralVS|[PAPER]()|[CODE](https://github.com/Angtian/NeuralVS)|
 |Few-Shot-3D-Point-Cloud-Classification|[PAPER]()|[CODE](https://github.com/PeiZhou26/Few-Shot-3D-Point-Cloud-Classification)|
 |FewShot_3D|[PAPER]()|[CODE](https://github.com/rishabhdotgupta/FewShot_3D)|
