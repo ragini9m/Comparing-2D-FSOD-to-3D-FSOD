@@ -23,8 +23,8 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | FSV | KITTI -> COCO | intra | fsv | 921313|
 | FSV | KITTI -> COCO | inter | fsv | 921368|
-| FSV | KITTI -> COCO | intra (fine-tuning) | fsv | 921570|
-| FSV | KITTI -> COCO | inter (fine-tuning) | fsv | |
+| FSV | KITTI -> COCO | intra (fine-tuning) | fsv | 921595|
+| FSV | KITTI -> COCO | inter (fine-tuning) | fsv | 921700 |
 | FSV | KITTI -> COCO | intra (testing) | fsv | |
 | FSV | KITTI -> COCO | inter (testing) | fsv | |
 | MetaDetect3D | KITTI | till chkpnt 93 | sfa_A30 | 921310 |
