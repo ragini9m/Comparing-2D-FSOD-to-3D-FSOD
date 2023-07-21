@@ -28,8 +28,8 @@
 | FSV | KITTI ->  | inter | fsv | 921368|
 | FSV | KITTI | intra (fine-tuning) | fsv | 921595|
 | FSV | KITTI ->  | inter (fine-tuning) | fsv | 921700 |
-| FSV | KITTI | intra (testing) | fsv | |
-| FSV | KITTI ->  | inter (testing) | fsv | |
+| FSV | KITTI | intra (testing) | fsv | 923564 |
+| FSV | KITTI ->  | inter (testing) | fsv | 923586 |
 | MetaDetect3D | KITTI | till chkpnt 93 | sfa_A30 | 921310 |
 | MetaDetect3D | KITTI | after chkpnt 93 | sfa_A30 | 921568 |
 | FS3D | KITTI | train ( 1 - shot) | fs3d |  |
