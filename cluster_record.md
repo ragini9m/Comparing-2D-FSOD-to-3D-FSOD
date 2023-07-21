@@ -1,7 +1,7 @@
 | Method  | Dataset | Shot | Name | Number |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| VFA | MS-COCO  | 10/ training | vfa | 92190 | 
-|   | MS-COCO  | 30/ training | vfa | |
+| VFA | MS-COCO  | 10/ training | vfa | 921390 | 
+|   | MS-COCO  | 30/ training | vfa | 923559  |
 |   | MS-COCO  | 10/ test | vfa | |
 |   | MS-COCO  | 30/ test | vfa | |
 |   | MS-COCO  | base/ training | vfa | 921317 |
@@ -15,6 +15,9 @@
 | DeFRCN | COCO | train | defrcn |  |
 | MFDC | VOC | train (trial) |  mfdc | 921566 |
 | MFDC | COCO | train (trial) |  mfdc |  |
+| AcroFOD | VOC | train | afod | 911310 |
+| AcroFOD | COCO | train | afod | 911312 |
+| yolo | | | |
 
 
 
@@ -34,6 +37,7 @@
 | FS3D | KITTI | train ( 3 - shot) | fs3d |  |
 | FS3D | KITTI | train ( 4 - shot) | fs3d |  |
 | FS3D | KITTI | train ( 5 - shot) | fs3d |  |
+| ComplexYOLO ||||
 
 
 
