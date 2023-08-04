@@ -5,7 +5,7 @@
 |   | MS-COCO  | 10/ test | vfa | 930504 |
 |   | MS-COCO  | 30/ test | vfa | 930512 |
 |   | MS-COCO  | base/ training | vfa | 921317 |
-|   | MS-COCO  | base/ testing | vfa | |
+|   | VOC  | base/ training | vfa | 930522 |
 | | VOC | split 2 - shot 1 | vfa_voc | |
 | | VOC | split 2 - shot 2 | vfa_voc | |
 | | VOC | split 2 - shot 3 | vfa_voc | |
