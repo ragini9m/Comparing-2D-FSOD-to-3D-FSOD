@@ -17,7 +17,7 @@
 | MFDC | COCO | train (ft) |  mfdc | 930535 |
 | AcroFOD | VOC | train | afod |  |
 | AcroFOD | COCO | train | afod |  |
-| yolo | | | |
+| yolov7 | | | 930694 |
 
 
 
@@ -33,9 +33,9 @@
 | MetaDetect3D | KITTI | till chkpnt 93 | sfa_A30 | 921310 |
 | MetaDetect3D | KITTI | after chkpnt 93 | sfa_A30 | 921568 |
 | FS3D | KITTI | train ( 1 - shot) | fs3d | 930482 |
-| FS3D | KITTI | train ( 2 - shot) | fs3d |  |
-| FS3D | KITTI | train ( 3 - shot) | fs3d |  |
-| FS3D | KITTI | train ( 4 - shot) | fs3d |  |
+| FS3D | KITTI | train ( 2 - shot) | fs3d | 930689 |
+| FS3D | KITTI | train ( 3 - shot) | fs3d | 930693 |
+| FS3D | KITTI | train ( 4 - shot) | fs3d | 930695 |
 | FS3D | KITTI | train ( 5 - shot) | fs3d |  |
 | ComplexYOLO ||||
 
