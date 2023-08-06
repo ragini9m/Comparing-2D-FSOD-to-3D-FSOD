@@ -13,7 +13,7 @@
 | | VOC | split 2 - shot 10 | vfa_voc | |
 | DeFRCN | VOC | train | defrcn | 921569 |
 | DeFRCN | COCO | train | defrcn | 930518 |
-| MFDC | VOC | train (bt/ft) |  mfdc | 921566/930488 |
+| MFDC | VOC | train (bt/ft) |  mfdc | 921566/930523 |
 | MFDC | COCO | train (ft) |  mfdc | 930535 |
 | AcroFOD | VOC | train | afod | c069 |
 | AcroFOD | COCO | train | afod | c069 |
