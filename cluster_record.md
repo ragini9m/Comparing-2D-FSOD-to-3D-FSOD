@@ -17,7 +17,12 @@
 | MFDC | COCO | train (ft) |  mfdc | 930535 |
 | AcroFOD | VOC | train | afod |  |
 | AcroFOD | COCO | train | afod |  |
-| yolov7 | | | 930694 |
+| TFA | VOC | train | tfa |  |
+| TFA | COCO | train | tfa | 930719 |
+| yolov7 | COCO | train | yolo | 930694 |
+| yolov7 | VOC | train | yolo |  |
+| yolov5 | VOC | train | yolo | c069 |
+| yolov5 | COCO | train | yolo | c069 |
 
 
 
@@ -36,8 +41,8 @@
 | FS3D | KITTI | train ( 2 - shot) | fs3d | 930689 |
 | FS3D | KITTI | train ( 3 - shot) | fs3d | 930693 |
 | FS3D | KITTI | train ( 4 - shot) | fs3d | 930695 |
-| FS3D | KITTI | train ( 5 - shot) | fs3d |  |
-| ComplexYOLO ||||
+| FS3D | KITTI | train ( 5 - shot) | fs3d | 930721 |
+| ComplexYOLO | KITTI |  |   | wr14 |
 
 
 
