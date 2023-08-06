@@ -15,8 +15,8 @@
 | DeFRCN | COCO | train | defrcn | 930518 |
 | MFDC | VOC | train (bt/ft) |  mfdc | 921566/930488 |
 | MFDC | COCO | train (ft) |  mfdc | 930535 |
-| AcroFOD | VOC | train | afod |  |
-| AcroFOD | COCO | train | afod |  |
+| AcroFOD | VOC | train | afod | c069 |
+| AcroFOD | COCO | train | afod | c069 |
 | TFA | VOC | train | tfa |  |
 | TFA | COCO | train | tfa | 930719 |
 | yolov7 | COCO | train | yolo | 930694 |
