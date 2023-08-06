@@ -6,9 +6,9 @@
 |   | MS-COCO  | 30/ test | vfa | 930512 |
 |   | MS-COCO  | base/ training | vfa | 921317 |
 |   | VOC  | base/ training | vfa | 930522 |
-| | VOC | split 2 - shot 1 | vfa_voc | |
-| | VOC | split 2 - shot 2 | vfa_voc | |
-| | VOC | split 2 - shot 3 | vfa_voc | |
+| | VOC | split 2 - shot 1 | vfa_voc | 930763 |
+| | VOC | split 2 - shot 2 | vfa_voc | 930758 |
+| | VOC | split 2 - shot 3 | vfa_voc | 930755 |
 | | VOC | split 2 - shot 5 | vfa_voc | 930745 |
 | | VOC | split 2 - shot 10 | vfa_voc | 930744 |
 | DeFRCN | VOC | train | defrcn | 921569 |
