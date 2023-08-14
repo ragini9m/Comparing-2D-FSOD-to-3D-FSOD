@@ -51,7 +51,7 @@ tar xf VOCtest_06-Nov-2007.tar
 |DCNet|[PAPER]()|[CODE](https://github.com/hzhupku/DCNet)|
 |GFSD|[PAPER]()|[CODE](https://github.com/Megvii-BaseDetection/GFSD)|
 |CME|[PAPER]()|[CODE](https://github.com/Bohao-Lee/CME)|
-|UniT|[PAPER]()|[CODE](https://github.com/ubc-vision/UniT)|
+|UniT(L/C)|[PAPER]()|[CODE](https://github.com/ubc-vision/UniT)|
 |FAPIS(SS)|[PAPER]()|[CODE](https://github.com/ducminhkhoi/FAPIS)|
 |FSCE|[PAPER]()|[CODE](https://github.com/megvii-research/FSCE)|
 
