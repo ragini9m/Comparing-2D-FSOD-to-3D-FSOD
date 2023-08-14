@@ -36,7 +36,7 @@ tar xf VOCtest_06-Nov-2007.tar
 |MFDC|[PAPER]()|[CODE](https://github.com/WuShuang1998/MFDC)|
 |FewX|[PAPER]()|[CODE](https://github.com/fanq15/FewX)|
 |Counting-DETR|[PAPER]()|[CODE](https://github.com/VinAIResearch/Counting-DETR)|
-|MRSN|[PAPER]()|[CODE](https://github.com/MMatx/MRSN)|
+|MRSN(Classification)|[PAPER]()|[CODE](https://github.com/MMatx/MRSN)|
 |AcroFOD|[PAPER]()|[CODE](https://github.com/Hlings/AcroFOD)|
 |KFSOD|[PAPER]()|[CODE](https://github.com/ZS123-lang/KFSOD)|
 |lvc|[PAPER]()|[CODE](https://github.com/prannaykaul/lvc)|
@@ -52,7 +52,7 @@ tar xf VOCtest_06-Nov-2007.tar
 |GFSD|[PAPER]()|[CODE](https://github.com/Megvii-BaseDetection/GFSD)|
 |CME|[PAPER]()|[CODE](https://github.com/Bohao-Lee/CME)|
 |UniT|[PAPER]()|[CODE](https://github.com/ubc-vision/UniT)|
-|FAPIS|[PAPER]()|[CODE](https://github.com/ducminhkhoi/FAPIS)|
+|FAPIS(SS)|[PAPER]()|[CODE](https://github.com/ducminhkhoi/FAPIS)|
 |FSCE|[PAPER]()|[CODE](https://github.com/megvii-research/FSCE)|
 
 
