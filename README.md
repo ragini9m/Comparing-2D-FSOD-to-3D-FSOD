@@ -65,13 +65,13 @@ tar xf VOCtest_06-Nov-2007.tar
 |Few-Shot Viewpoint Estimation (OD)|[PAPER]()|[CODE](https://github.com/YoungXIAO13/FewShotViewpoint)|
 |FS3D (PC-OD)|[PAPER]()|[CODE](https://github.com/CVMI-Lab/FS3D)|
 |MetaDetect3D|[PAPER]()|[CODE](https://github.com/JanMarcelKezmann/MetaDetect3D)|
-|3D-Few-Shot|[PAPER]()|[CODE](https://github.com/yuchenlichuck/3D-Few-Shot)|
+|3D-Few-Shot(SS)|[PAPER]()|[CODE](https://github.com/yuchenlichuck/3D-Few-Shot)|
 |Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving|[PAPER]()|[CODE](https://github.com/Garvey98/Few-Shot-3D-Object-Detection-of-LiDAR-Point-Cloud-for-Autonomous-Driving)|
-|UVStyle-Net|[PAPER]()|[CODE](https://github.com/AutodeskAILab/UVStyle-Net)|
-|FSCIL-3D (Learning)|[PAPER]()|[CODE](https://github.com/townim-faisal/FSCIL-3D)|
-|NeuralVS|[PAPER]()|[CODE](https://github.com/Angtian/NeuralVS)|
-|Few-Shot-3D-Point-Cloud-Classification|[PAPER]()|[CODE](https://github.com/PeiZhou26/Few-Shot-3D-Point-Cloud-Classification)|
-|FewShot_3D|[PAPER]()|[CODE](https://github.com/rishabhdotgupta/FewShot_3D)|
+|UVStyle-Net (L)|[PAPER]()|[CODE](https://github.com/AutodeskAILab/UVStyle-Net)|
+|FSCIL-3D (L)(Learning)|[PAPER]()|[CODE](https://github.com/townim-faisal/FSCIL-3D)|
+|NeuralVS(L)|[PAPER]()|[CODE](https://github.com/Angtian/NeuralVS)|
+|Few-Shot-3D-Point-Cloud-Classification(C)|[PAPER]()|[CODE](https://github.com/PeiZhou26/Few-Shot-3D-Point-Cloud-Classification)|
+|FewShot_3D(SS)|[PAPER]()|[CODE](https://github.com/rishabhdotgupta/FewShot_3D)|
 |fewshot-3d|[PAPER]()| [CODE](https://github.com/YWQQQQQQ/fewshot-3d)|
 |attMPTI (PC-SS)|[PAPER]()|[CODE](https://github.com/Na-Z/attMPTI)|
 |FewShot_GAN-Unet3D (SS-L)|[PAPER]()|[CODE](https://github.com/arnab39/FewShot_GAN-Unet3D)|
@@ -81,13 +81,14 @@ tar xf VOCtest_06-Nov-2007.tar
 |PAP-FZS3D (PC-SS)|[PAPER]()|[CODE](https://github.com/heshuting555/PAP-FZS3D)|
 |Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation|[PAPER]()|[CODE](https://github.com/Lingjing324/Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation)|
 |Few-shot_3D_Geometric_DeepLearning|[PAPER]()|[CODE](https://github.com/Mzunoven/Few-shot_3D_Geometric_DeepLearning)|
-|H3D-Net-new|[PAPER]()|[CODE](https://github.com/MaxPolak97/H3D-Net-new)|
-|PADMix|[PAPER]()|[CODE](https://github.com/ttchengab/PADMix)|
+|H3D-Net-new(R)|[PAPER]()|[CODE](https://github.com/MaxPolak97/H3D-Net-new)|
+|PADMix(R)|[PAPER]()|[CODE](https://github.com/ttchengab/PADMix)|
 |BFG_FewShot3D|[PAPER]()|[CODE](https://github.com/Mostapha0A/BFG_FewShot3D)|
-|3D_Medical_FewShot|[PAPER]()|[CODE](https://github.com/Rituraj-commits/3D_Medical_FewShot)|
-|SCAT|[PAPER]()|[CODE](https://github.com/czzhang179/SCAT)|
-|JRSS|[PAPER]()|[CODE](https://github.com/AIforMS/JRSS)|
-|analogicalnets|[PAPER]()|[CODE](https://github.com/nickgkan/analogicalnets)|
-|SST|[PAPER]()|[CODE](https://github.com/tusen-ai/SST)|
+|3D_Medical_FewShot(SS)|[PAPER]()|[CODE](https://github.com/Rituraj-commits/3D_Medical_FewShot)|
+|SCAT(SS)|[PAPER]()|[CODE](https://github.com/czzhang179/SCAT)|
+|JRSS (SS)|[PAPER]()|[CODE](https://github.com/AIforMS/JRSS)|
+|analogicalnets(Parsing)|[PAPER]()|[CODE](https://github.com/nickgkan/analogicalnets)|
+|SST (L/C)|[PAPER]()|[CODE](https://github.com/tusen-ai/SST)|
 |SFA3D|[PAPER]()|[CODE](https://github.com/maudzung/SFA3D)|
-|XrayDet|[PAPER]()|[CODE]([https://github.com/DIG-Beihang/XrayDetection](https://github.com/DIG-Beihang/XrayDetection))|
+|XrayDet (Learning)|[PAPER]()|[CODE]([https://github.com/DIG-Beihang/XrayDetection](https://github.com/DIG-Beihang/XrayDetection))|
+Few-shot 3D LiDAR Semantic Segmentation for Autonomous Driving
